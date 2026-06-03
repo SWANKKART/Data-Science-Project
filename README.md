@@ -27,23 +27,29 @@ Analyzed **5,630 customer records** of an e-commerce platform to understand cust
 ├── requirements.txt
 
 ├── data/
+
 │   └── E Commerce Dataset.xlsx
 
 ├── notebooks/
+
 │   └── Churn_Analysis.ipynb
 
 ├── src/
+
 │   └── churn_analysis.py
 
 ├── dashboards/
+
 │   └── Ecommerce_Churn_Dashboard.pbix
 
 ├── images/
+
 │   ├── churn_by_tenure.png
 │   ├── churn_by_complain.png
 │   └── correlation_heatmap.png
 
 └── reports/
+
 └── Project_Summary.pdf
 
 ## 🚀 Quick Start
