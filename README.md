@@ -3,7 +3,7 @@
 
 > **Analyzed 5,630 customer records** to uncover why customers leave an e-commerce platform — using Python for analysis and Power BI for interactive visualization.
 
-![Dashboard Preview](images/final_dashboard_screenshot.png)
+[Dashboard Preview](Dashboard-Preview.png)
 
 ---
 
