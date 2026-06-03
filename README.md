@@ -45,7 +45,9 @@ Analyzed **5,630 customer records** of an e-commerce platform to understand cust
 ├── images/
 
 │   ├── churn_by_tenure.png
+
 │   ├── churn_by_complain.png
+
 │   └── correlation_heatmap.png
 
 └── reports/
