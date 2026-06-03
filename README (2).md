@@ -3,7 +3,7 @@
 
 > **Analyzed 5,630 customer records** to uncover why customers leave an e-commerce platform — using Python for analysis and Power BI for interactive visualization.
 
-![Dashboard Preview](Dashboard Preview.png)
+![Dashboard Preview](images/final_dashboard_screenshot.png)
 
 ---
 
@@ -246,21 +246,22 @@ The dashboard is a single-page interactive report built on a dark professional t
 ![Power BI Dashboard](images/final_dashboard_screenshot.png)
 
 **Dashboard layout:**
-┌────────────────────────────────────────────────────────────┐
-│  E-Commerce Customer Churn Analysis                        │
-│  5,630 customers · Python + Power BI                       │
-├──────────┬───────────┬────────────┬────────────────────────┤    
-│  5,630   │  16.8%    │  10.1 mo   │       3.1 / 5          │
-│ Customers│  Churn    │  Tenure    │    Satisfaction        │
-├──────────┴──────┬────┴────────────┴────────────────────────┤
-│ Churn by Tenure │    Churn by Satisfaction Score           │
-│   [Bar Chart]   │         [Column Chart]                   │
-├────────┬────────┴───────────────────┬──────────────────────┤
-│Slicers │  Churn by Payment Mode     │    Key Insight       │
-│ City   │      [Bar Chart]           │    [Text Box]        │
-│ Gender │                            │                      │
-│Complain│                            │                      │
-└────────┴────────────────────────────┴──────────────────────┘
+```
+┌─────────────────────────────────────────────────────────────┐
+│  E-Commerce Customer Churn Analysis                         │
+│  5,630 customers · Python + Power BI                        │
+├──────────┬───────────┬────────────┬─────────────────────────┤
+│  5,630   │  16.8%    │  10.1 mo   │       3.1 / 5           │
+│ Customers│  Churn    │  Tenure    │    Satisfaction         │
+├──────────┴──────┬────┴────────────┴─────────────────────────│
+│ Churn by Tenure │    Churn by Satisfaction Score            │
+│   [Bar Chart]   │         [Column Chart]                    │
+├────────┬────────┴───────────────────┬───────────────────────┤
+│Slicers │  Churn by Payment Mode     │    Key Insights       │
+│ City   │      [Bar Chart]           │    [Text Box]         │
+│ Gender │                            │                       │
+│Complain│                            │                       │
+└────────┴────────────────────────────┴───────────────────────┘
 ```
 
 **DAX Measures:**
