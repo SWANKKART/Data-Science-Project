@@ -23,9 +23,7 @@ Analyzed **5,630 customer records** of an e-commerce platform to understand cust
 ## 📁 Repository Structure
 
 ├── README.md 
-
 ├── requirements.txt
-
 ├── data/
 
 │   └── E Commerce Dataset.xlsx
@@ -43,7 +41,6 @@ Analyzed **5,630 customer records** of an e-commerce platform to understand cust
 │   └── Ecommerce_Churn_Dashboard.pbix
 
 ├── images/
-
 │   ├── churn_by_tenure.png
 
 │   ├── churn_by_complain.png
