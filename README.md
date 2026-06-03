@@ -361,5 +361,9 @@ B.Sc. Information Technology — Mumbai
 
 ---
 
+📄 License
+This project is open source and available under the MIT License.
+
+---
 
 *⭐ If this project helped you, please consider starring the repository!*
